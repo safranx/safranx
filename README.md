@@ -4,9 +4,9 @@
 
 <ul>
 <li> :computer: I'm currently working on MERN Stack </li>
-<li> :rocket: Exploring Web3 </li>
 <li> :man_technologist: Founder & CTO at <a href="https://www.amber.gg" alt="Amber.gg"/>Amber.gg</a> </li>
 <li> :dart: Life Hack, everything is easy when you are curious! </li>
+<li> :rocket: Exploring Web3 </li>
 </ul>
 
 <h2 align="center">Technologies I use</h2>
