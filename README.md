@@ -2,12 +2,11 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
 </div>
 
-<h2 align="center">About Me</h2>
 <ul>
-	<li> :computer: I'm currently working on MERN Stack </li>
-	<li> :rocket: Exploring Web3 </li>
-	<li> :man_technologist: Founder & CTO at <a href="https://www.amber.gg" alt="Amber.gg"/>Amber.gg</a> </li>
-	<li> :dart: Life Hack, everything is easy when you are curious! </li>
+<li> :computer: I'm currently working on MERN Stack </li>
+<li> :rocket: Exploring Web3 </li>
+<li> :man_technologist: Founder & CTO at <a href="https://www.amber.gg" alt="Amber.gg"/>Amber.gg</a> </li>
+<li> :dart: Life Hack, everything is easy when you are curious! </li>
 </ul>
 
 <h2 align="center">Technologies I use</h2>
